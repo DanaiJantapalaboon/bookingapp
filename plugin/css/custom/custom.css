@@ -1,0 +1,11 @@
+body {
+    background-color: rgb(241, 241, 241);
+}
+
+#contentBox {
+    margin: auto;
+    padding: 2rem;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    background-color: white;
+    
+}
